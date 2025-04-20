@@ -1,3 +1,11 @@
+# Overview Proyek 
+Proyek ini dibuat untuk memenuhi tugas UTS matakuliah RPL. Proyek ini adalah aplikasi pencatatan keungan dimana dalam proyek ini user bisa menginputkan sebuah brand (merek) sesui dengan kategori yang disediakan, ada 4 kategori yaitu, pemasukan , pengeluaran, tabungan, dan investasi untuk brand-nya sendiri bisa dikustom contoh IKEA (Pengeluaran) dan juga Proyek ini terdapat 4 menu utam yaitu Dashboard, Brands, Kategori dan Transaksi.
+Proyek ini dikembangkan secara tim dengan daftar anggota sebagai berikut:
+23051204334 - Pebri Andika Putra 
+23051204339 – Muhammad Alvi Kirana Zulfan Nazal 
+23051204341 – Dwi Lestari Amelia 
+23051204355 – Najwa Vaida Isnani 
+
 # Panduan Penginstalan Proyek
 Ikuti langkah-langkah berikut untuk menginstal proyek ini di komputer Anda:
 
